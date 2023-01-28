@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jesus-carranza
 - 🖱  I’m interested in android tech
 - 💻 I’m currently learning java and mysql
-- 💞️ I’m looking to collaborate on some project
+- 🏆 I’m looking to collaborate on some project
 
 <!---
 jesus-carranza/jesus-carranza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
